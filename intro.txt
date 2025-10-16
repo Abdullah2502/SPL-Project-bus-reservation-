@@ -1,0 +1,12 @@
+    Welcome to ' X Travels'
+
+Bus no :     Routes:         Departure Time
+ 1.      Dhaka - Sylhet        (10:00 AM)
+ 2.      Dhaka - Chattogram    (10:30 AM)
+ 3.      Dhaka - Khulna        (11:00 AM)
+ 4.      Dhaka - Sylhet        (11:30 AM)
+ 5.      Dhaka - Chattogram    (12:00 PM)
+ 6.      Dhaka - Khulna        (12:30 PM)
+ 7.      Dhaka - Sylhet        (01:00 PM)
+ 8.      Dhaka - Chattogram    (01:30 pM)
+ 9.      Dhaka - Khulna        (02:00 PM)
