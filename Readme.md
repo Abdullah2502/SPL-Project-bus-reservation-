@@ -29,4 +29,4 @@ You need a C compiler (like GCC) installed on your system.
 Open your terminal/command prompt and run:
 
 ```bash
-gcc main.c -o bus_system
+gcc main.c -o main
